@@ -1,4 +1,11 @@
 # CryptographicStore
+一个提供安全认证、加密传输和加密存储功能的网络加密磁盘空间（前端部分）
+
+
+
+下面是自动生成的文档
+***
+# CryptographicStore
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -44,3 +51,4 @@ npm run build
 ```sh
 npm run lint
 ```
+
